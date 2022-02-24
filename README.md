@@ -1,15 +1,5 @@
 UConn Team 1's submission to the Spring 2022 Blockchain Hackathon.
 
-Contributors:
-
-Rany Kamel (UltraArceus3)
-
-Nachiket Deo (Nachiket18)
-
-Ya-sine Agrignan (Dev-10sky)
-
-Thien-Bao (tbbui-732)
-
 -------------------------------------------------------------------------------
 ![](img/hackathon.png)
 
