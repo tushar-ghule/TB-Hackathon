@@ -1,0 +1,3 @@
+SELECT 'device_data.Date', sum(sum(global_intensity)) OVER(ORDER BY 'device_data.Date')
+FROM device_data
+GROUP BY 'device_data.Date';

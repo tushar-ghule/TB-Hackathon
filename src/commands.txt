@@ -1,0 +1,7 @@
+"Commands: " 
+ECHO is on.
+\n Ya-sine\n Agrignan 
+################################################# 
+Activation: website\Scripts\activate.bat 
+Deactivation: deactivate 
+################################################# 
